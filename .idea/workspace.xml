@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b90a078b-60ce-4ad8-92d6-1d237233961a" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/ems-backend/src/main/java/com/mohinur/ems/controllers/EmployeeController.java" beforeDir="false" afterPath="$PROJECT_DIR$/ems-backend/src/main/java/com/mohinur/ems/controllers/EmployeeController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ems-frontend-react/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/ems-frontend-react/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ems-frontend-react/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/ems-frontend-react/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ems-frontend-react/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/ems-frontend-react/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ems-frontend-react/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/ems-frontend-react/src/App.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ems-frontend-react/src/App.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/ems-frontend-react/src/App.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ems-frontend-react/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/ems-frontend-react/src/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ems-frontend-react/src/main.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/ems-frontend-react/src/main.jsx" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 5
+}]]></component>
+  <component name="ProjectId" id="2bSkITfFr8zNixM3A7aThSQKDWz" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "F:/employee management system",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="EmsBackendApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="ems-backend" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.mohinur.ems.EmsBackendApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b90a078b-60ce-4ad8-92d6-1d237233961a" name="Changes" comment="" />
+      <created>1706215787918</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1706215787918</updated>
+      <workItem from="1706215789962" duration="82000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

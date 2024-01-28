@@ -12,6 +12,7 @@ import java.util.List;
 @AllArgsConstructor
 @RestController
 @RequestMapping("/api/v1/employee")
+@CrossOrigin("*")
 public class EmployeeController {
     private EmployeeService employeeService;
     @PostMapping("/create")
@@ -26,7 +27,7 @@ public class EmployeeController {
         return ResponseEntity.ok(employeeDto);
     }
 
-    @GetMapping
+    @GetMapping("/show")
     public ResponseEntity<List<EmployeeDto>> getAllEmployees() {
         List<EmployeeDto> allEmployees = employeeService.getAllEmployees();
         return ResponseEntity.ok(allEmployees);
